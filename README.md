@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Saloum Ebrahim 👋
 
 <!--
 **s99aloum/s99aloum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
