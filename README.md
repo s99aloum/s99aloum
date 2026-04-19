@@ -1,4 +1,4 @@
-## Hi, I'm Saloum Ebrahim 👋
+## Hi, I'm Saloum p 👋
 
 <!--
 **s99aloum/s99aloum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 💻 Interested in technology and everything related to computers, smartphones, and the internet.
+
